@@ -1,0 +1,13 @@
+# virtual environments
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# data
+data/
+
+# notebook checkpoints
+.ipynb_checkpoints/
